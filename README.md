@@ -1,2 +1,3 @@
-# Personal Website
-[duncanmccall.ca](https://duncanmccall.ca/)
+Duncan McCall
+Love
+2023
