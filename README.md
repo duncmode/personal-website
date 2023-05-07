@@ -1,5 +1,3 @@
-Duncan McCall
-
-Love
-
-2023
+Duncan McCall  
+Love  
+2023  
