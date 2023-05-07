@@ -1,2 +1,2 @@
 # Personal Website
-duncanmccall.ca
+[duncanmccall.ca](https://duncanmccall.ca/)
